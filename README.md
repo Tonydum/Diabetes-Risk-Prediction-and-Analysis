@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves a comprehensive analysis of a diabetes dataset to understand the risk factors associated with diabetes and to develop a predictive model. The goal is to identify key indicators and symptoms that contribute to diabetes risk and to provide a model that can predict an individual's risk based on these factors.
+This project involves a comprehensive analysis of a diabetes dataset, sourced from Kaggle, to understand the risk factors associated with diabetes and to develop a predictive model. The goal is to identify key indicators and symptoms that contribute to diabetes risk and to provide a model that can predict an individual's risk based on these factors.
 
 ## Dataset
 
